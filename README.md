@@ -73,6 +73,7 @@ Los medios que se hibridan en Reactable son:
 - **Software**: ReacTIVision detecta la posición de los bloques en tiempo real y genera el sonido correspondiente.
 - **Visualización digital**: la mesa proyecta imágenes de luz que representan lo que está ocurriendo musicalmente, añadiendo una dimensión visual a la experiencia sonora.
 
+
 **David Guetta en El Hormiguero usando la Reactable:**
 https://www.youtube.com/watch?v=pmwbkieRvhU
 
