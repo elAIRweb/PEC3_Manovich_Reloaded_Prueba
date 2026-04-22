@@ -95,20 +95,22 @@ https://www.youtube.com/watch?v=hNeCHI4NAzw
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Adell, Ferran. (2014). **Remediación, multimedia e hibridación de los medios**. UOC.: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-* Wikipedia. Bandersnatch.: https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch
-* Wikipedia. Reactable.: https://es.wikipedia.org/wiki/Reactable
-* Markdown. Lenguaje estándar para la traducción del ensayo formato github (2024): https://markdown.es/
-* Stackedit. Editor en linea de sintaxis Markdown en linea: https://stackedit.io/
-* Github. Lugar de publicación del ensayo: https://docs.github.com/es
-* Gemini. (2026). Gemini 5.0 (versión 15 de mayo) para la corrección ortográfica (2026): https://gemini.google.com/app?hl=es-ES
-* Videos: https://www.youtube.com/
+- **Manovich, L.** (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+- **Adell, F.** (2014). *Remediación, multimedia e hibridación de los medios*. Editorial UOC. [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+- **Wikipedia.** (s.f.). *Black Mirror: Bandersnatch*. [https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch](https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
+- **Wikipedia.** (s.f.). *Reactable*. [https://es.wikipedia.org/wiki/Reactable](https://es.wikipedia.org/wiki/Reactable)
+- **Markdown.** (2024). *Guía de sintaxis estándar*. [https://markdown.es/](https://markdown.es/)
+- **StackEdit.** (2024). *Editor Markdown en línea*. [https://stackedit.io/](https://stackedit.io/)
+- **GitHub.** (2024). *Documentación oficial y repositorios*. [https://docs.github.com/es](https://docs.github.com/es)
+- **Google.** (2026). *Gemini 3 Flash* (versión mayo 2026) [Modelo de lenguaje extenso]. para la corrección ortográfica (2026): [https://gemini.google.com/](https://gemini.google.com/)
+- **YouTube.** *Plataforma de recursos de vídeo*: [https://www.youtube.com/](https://www.youtube.com/)
+
+
+**Imágenes:**
+
+- **Freepik.** (2026). *Ilustración metaverso degradado* [Imagen]. [https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg](https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg)
+- **Game Rant.** (2024). *Black Mirror: Bandersnatch Interactive Titles* [Imagen]. [https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg)
+- **Wikipedia Commons.** (s.f.). *Reactable Multitouch surface* [Imagen]. [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg)
+
 
 ----
-
-**Imágenes**
-
-* Imagen cabecera: Freepik: https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg
-* Imagen Bandersnatch: Game Rant: https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg
-* Imagen Reactable: Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg
