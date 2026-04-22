@@ -73,19 +73,23 @@ Los medios que se hibridan en Reactable son:
 - **Software**: ReacTIVision detecta la posición de los bloques en tiempo real y genera el sonido correspondiente.
 - **Visualización digital**: la mesa proyecta imágenes de luz que representan lo que está ocurriendo musicalmente, añadiendo una dimensión visual a la experiencia sonora.
 
-**David Guetta en El Hormiguero usando la Reactable**
+**David Guetta en El Hormiguero usando la Reactable:**
 https://www.youtube.com/watch?v=pmwbkieRvhU
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pmwbkieRvhU?si=za2HdqFqMkYrMsVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![David Guetta en El Hormiguero usando la Reactable](https://img.youtube.com/vi/pmwbkieRvhU/0.jpg)](https://www.youtube.com/watch?v=pmwbkieRvhU)
+
+
 
 **Concierto en directo de Björk, haciendo uso de la Reactable**
 https://www.youtube.com/watch?v=GDq5uXv0Pbo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GDq5uXv0Pbo?si=h1qJL0T4-JhqyHQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Concierto en directo de Björk, haciendo uso de la Reactable](https://img.youtube.com/vi/GDq5uXv0Pbo/0.jpg)](https://www.youtube.com/watch?v=GDq5uXv0Pbo)
 
-**Cómo funciona la Reactable**
+
+**Björk - Reactable: Ejemplo de sonido y funcionamiento**
 https://www.youtube.com/watch?v=hNeCHI4NAzw
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hNeCHI4NAzw?si=0rznkRY5lzrPG911" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[![Björk - Reactable: Ejemplo de sonido y funcionamiento](https://img.youtube.com/vi/hNeCHI4NAzw/0.jpg)](https://www.youtube.com/watch?v=hNeCHI4NAzw)
 
 
 ### Referencias y Bibliografía
