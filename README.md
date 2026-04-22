@@ -74,14 +74,14 @@ Los medios que se hibridan en Reactable son:
 - **Visualización digital**: la mesa proyecta imágenes de luz que representan lo que está ocurriendo musicalmente, añadiendo una dimensión visual a la experiencia sonora.
 
 
-**David Guetta en El Hormiguero usando la Reactable:**
+**David Guetta en El Hormiguero usando el Reactable:**
 https://www.youtube.com/watch?v=pmwbkieRvhU
 
 [![David Guetta en El Hormiguero usando la Reactable](https://img.youtube.com/vi/pmwbkieRvhU/0.jpg)](https://www.youtube.com/watch?v=pmwbkieRvhU)
 
 
 
-**Concierto en directo de Björk, haciendo uso de la Reactable**
+**Concierto en directo de Björk, haciendo uso del Reactable**
 https://www.youtube.com/watch?v=GDq5uXv0Pbo
 
 [![Concierto en directo de Björk, haciendo uso de la Reactable](https://img.youtube.com/vi/GDq5uXv0Pbo/0.jpg)](https://www.youtube.com/watch?v=GDq5uXv0Pbo)
