@@ -96,13 +96,13 @@ https://www.youtube.com/watch?v=hNeCHI4NAzw
 ### Referencias y Bibliografía
 
 - **Manovich, L.** (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-- **Adell, F.** (2014). *Remediación, multimedia e hibridación de los medios*. Editorial UOC. [http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
 - **Wikipedia.** (s.f.). *Black Mirror: Bandersnatch*. [https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch](https://es.wikipedia.org/wiki/Black_Mirror:_Bandersnatch)
 - **Wikipedia.** (s.f.). *Reactable*. [https://es.wikipedia.org/wiki/Reactable](https://es.wikipedia.org/wiki/Reactable)
 - **Markdown.** (2024). *Guía de sintaxis estándar*. [https://markdown.es/](https://markdown.es/)
 - **StackEdit.** (2024). *Editor Markdown en línea*. [https://stackedit.io/](https://stackedit.io/)
 - **GitHub.** (2024). *Documentación oficial y repositorios*. [https://docs.github.com/es](https://docs.github.com/es)
-- **Google.** (2026). *Gemini 3 Flash* (versión mayo 2026) [Modelo de lenguaje extenso]. para la corrección ortográfica (2026): [https://gemini.google.com/](https://gemini.google.com/)
+- **Google.** (2026). *Gemini 3 Flash* (versión 6 de mayo) [Large language model]. [https://gemini.google.com/](https://gemini.google.com/)
+  - **Metodología de uso:** Se ha utilizado esta herramienta de IA para facilitar la investigación de datos técnicos, estructurar el contenido y la corrección ortográfica. (Google, 2026).
 - **YouTube.** *Plataforma de recursos de vídeo*: [https://www.youtube.com/](https://www.youtube.com/)
 
 
