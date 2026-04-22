@@ -6,6 +6,7 @@
 
 
 ![Cultura Digital](https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg)
+
 *Imagen: Freepik. (https://www.freepik.es/)*
 
 
@@ -33,6 +34,7 @@ Con esta idea, analizamos estos dos casos de hibridación: **Bandersnatch** y **
 ## Re-descubriendo la hibridacion: Bandersnatch
 
 ![Bandersnatch](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg)
+
 *Imagen: Game Rant. (https://gamerant.com)*
 
 Bandersnatch, una película interactiva que pertenece a la serie Black Mirror y que podía verse desde Netflix. Lo que la diferencia de una película normal es que aquí el espectador participa durante el transcurso de ella tomando decisiones que cambian el rumbo de la historia, por lo que cada persona puede ver una historia y final diferente.
@@ -55,6 +57,7 @@ Los medios que se hibridan en Bandersnatch son:
 ## Re-descubriendo la hibridacion: Reactable
 
 ![Reactable](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg)
+
 *Imagen: Wikipedia (https://es.wikipedia.org/)*
 
 Reactable es una innovadora mesa musical que nació del Grupo de Tecnología Musical de la UPF en Barcelona. Lo que hace que este instrumento sea una pieza clave de hibridación y no un simple sintetizador es cómo Sergi Jordà (músico y creador digital), Marcos Alonso, Günter Geiger y Martin Kaltenbrunner (todos ellos ingenieros informáticos y músicos)  lograron que el software "leyera" el mundo físico. Solo se fabricaron 5 unidades, una de las cuales fue adquirida por la cantante islandesa Björk, que lo usó en su gira Volta.
