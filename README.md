@@ -7,7 +7,7 @@
 
 ![Cultura Digital](img/principal.jpg)
 
-*Imagen: Freepik. (https://www.freepik.es/)*
+*Imagen: Magnific. (https://www.magnific.com/es)*
 
 
 
@@ -108,7 +108,7 @@ https://www.youtube.com/watch?v=hNeCHI4NAzw
 
 **Imágenes:**
 
-- **Freepik.** (2026). *Ilustración metaverso degradado* [Imagen]. [https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg](https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg)
+- **Magnific.** (2026). *Ilustración metaverso degradado* [Imagen]. [https://img.magnific.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg](https://img.magnific.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg)
 - **Game Rant.** (2024). *Black Mirror: Bandersnatch Interactive Titles* [Imagen]. [https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg)
 - **Wikipedia Commons.** (s.f.). *Reactable Multitouch surface* [Imagen]. [https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg)
 
