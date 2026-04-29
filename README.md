@@ -5,7 +5,7 @@
 **Fecha:** 22/04/2026
 
 
-![Cultura Digital](principal.jpg)
+![Cultura Digital](img/principal.jpg)
 
 *Imagen: Freepik. (https://www.freepik.es/)*
 
