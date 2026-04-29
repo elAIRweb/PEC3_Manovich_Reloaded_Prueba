@@ -33,7 +33,7 @@ Con esta idea, analizamos estos dos casos de hibridación: **Bandersnatch** y **
 
 ## Re-descubriendo la hibridacion: Bandersnatch
 
-![Bandersnatch](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/black-mirror-bandersnatch-netflix-interactive-titles.jpg)
+![Bandersnatch](img/Bandersnatch.jpg)
 
 *Imagen: Game Rant. (https://gamerant.com)*
 
@@ -56,7 +56,7 @@ Los medios que se hibridan en Bandersnatch son:
 
 ## Re-descubriendo la hibridacion: Reactable
 
-![Reactable](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Reactable_Multitouch.jpg/1280px-Reactable_Multitouch.jpg)
+![Reactable](img/Reactable.jpg)
 
 *Imagen: Wikipedia (https://es.wikipedia.org/)*
 
