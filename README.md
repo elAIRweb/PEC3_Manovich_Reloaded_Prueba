@@ -5,7 +5,7 @@
 **Fecha:** 22/04/2026
 
 
-![Cultura Digital](https://img.freepik.com/vector-gratis/ilustracion-metaverso-degradado_23-2149282137.jpg)
+![Cultura Digital](principal.jpg)
 
 *Imagen: Freepik. (https://www.freepik.es/)*
 
